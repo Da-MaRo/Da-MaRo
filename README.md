@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-Hey there! 👋 Welcome to my GitHub profile! I'm Daniel Marques Rodrigues, a passionate molecular biologist and data enthusiast. Here's a snapshot of my skills and projects from a comprehensive bootcamp in Programming & Database.
+Hey there! 👋 Welcome to my GitHub profile! I'm Daniel Marques Rodrigues, a passionate molecular biologist and data enthusiast. Here's a snapshot of my skills and projects from a comprehensive bootcamp in Data Science
 
 ## Skills Overview 🛠️
 
