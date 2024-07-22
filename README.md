@@ -45,5 +45,6 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Daniel Marques Rodrigues, a pa
 - **Project 1: Housing Market**: Exploratory Data Analysis
 - **Project 2: Flood Prevention**: Predictive Modeling
 - **Project 3: Skin Cancer Detection**: Deep Neural Network Algorithms
-
+- **Project 4: PubMed abstracts of autophagy related HSPA4 analysed with NLP
+-  
 Feel free to explore my repositories for more details.
